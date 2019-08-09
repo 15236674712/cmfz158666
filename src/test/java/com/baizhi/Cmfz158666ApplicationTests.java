@@ -22,5 +22,11 @@ public class Cmfz158666ApplicationTests {
         
         System.out.println("===我是小白 我加了一些内容=====");
     }
+    
+    public void TestBanner(){
+    
+        String str="hello"
+        System.out.println(str);
+    }
 
 }
